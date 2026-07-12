@@ -1,0 +1,4 @@
+interface:
+  display_name: "Claude Phase 8 Paper Drafting"
+  short_description: "Draft an evidence-backed research paper"
+  default_prompt: "Use $phase-8-paper-drafting-claude to draft my paper from validated research artifacts."

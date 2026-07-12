@@ -1,0 +1,4 @@
+interface:
+  display_name: "Codex Phase 2 Gap Analysis"
+  short_description: "Validate research gaps with evidence"
+  default_prompt: "Use $phase-2-identify-research-gaps-codex to validate research gaps from my Phase 1 literature map."

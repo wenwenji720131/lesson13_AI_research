@@ -1,0 +1,4 @@
+interface:
+  display_name: "Codex Phase 4 Idea Generation"
+  short_description: "Generate evidence-grounded research ideas"
+  default_prompt: "Use $phase-4-preliminary-ideas-codex to generate Phase 4 ideas from my research question."

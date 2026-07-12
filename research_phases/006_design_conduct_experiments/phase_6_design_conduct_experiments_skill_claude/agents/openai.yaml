@@ -1,0 +1,4 @@
+interface:
+  display_name: "Claude Phase 6 Experiment Design"
+  short_description: "Design auditable claim-driven experiments"
+  default_prompt: "Use $phase-6-experiment-design-claude to build an auditable experiment plan for my method."

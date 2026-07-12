@@ -1,0 +1,4 @@
+interface:
+  display_name: "Codex Phase 9 Paper Revision"
+  short_description: "Revise papers with evidence and review logs"
+  default_prompt: "Use $phase-9-paper-revision-codex to revise my paper and prepare a response to reviewers."

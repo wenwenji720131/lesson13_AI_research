@@ -1,0 +1,4 @@
+interface:
+  display_name: "Claude Phase 4 Idea Generation"
+  short_description: "Generate evidence-grounded research ideas"
+  default_prompt: "Use $phase-4-preliminary-ideas-claude to generate Phase 4 ideas from my research question."

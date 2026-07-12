@@ -1,0 +1,4 @@
+interface:
+  display_name: "Phase 1 Literature Mapping"
+  short_description: "Build an evidence-backed research landscape"
+  default_prompt: "Use $phase-1-literature-mapping to build a Phase 1 literature map for my research topic."

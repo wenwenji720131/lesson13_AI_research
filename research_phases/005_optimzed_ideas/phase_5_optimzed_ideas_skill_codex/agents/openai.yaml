@@ -1,0 +1,4 @@
+interface:
+  display_name: "Codex Phase 5 Method Refinement"
+  short_description: "Refine ideas into testable methods"
+  default_prompt: "Use $phase-5-refine-methodology-codex to refine my selected research idea into a method blueprint."
