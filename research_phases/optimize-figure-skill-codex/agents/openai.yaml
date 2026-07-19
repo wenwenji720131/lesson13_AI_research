@@ -1,0 +1,7 @@
+interface:
+  display_name: "Optimize Figure Skill"
+  short_description: "Optimize academic figure prompts"
+  default_prompt: "Use $optimize-figure-skill-codex to turn my paper description into a publication-quality figure prompt."
+
+policy:
+  allow_implicit_invocation: true
